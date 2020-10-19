@@ -14,5 +14,6 @@ public class problem1{
 
         }
         System.out.println(sum);
+        System.out.println("Just trying");
     }
 }
